@@ -1,0 +1,21 @@
+*{
+    color: aliceblue;
+}
+
+body{
+    background: url(https://img.freepik.com/fotos-premium/fondo-estrellado-negro-universo-noche-cielo-espacio-exterior-galaxia-campo-estelar-fondo-espacio-infinito-nebulosas-estrellas_372999-413.jpg?w=900);
+    
+
+    
+}
+
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+}
